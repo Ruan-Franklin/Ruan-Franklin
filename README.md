@@ -1,14 +1,19 @@
 # Sobre mim
 
-Olá! Me chamo Ruan Franklin. Eu sou um desenvolvedor de software que trabalha com várias tecnologias, incluindo:
+Olá! Me chamo Ruan Franklin. Eu sou um desenvolvedor de software que trabalha com várias ferramentas, incluindo:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-green" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Django-blue" alt="Django" />
-  <img src="https://img.shields.io/badge/-Python-yellow" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-orange" alt="Java" />
-  <img src="https://img.shields.io/badge/-C%23-purple" alt="C#" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+  <img src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+
 </p>
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-Franklin&show_icons=true&theme=transparent)
