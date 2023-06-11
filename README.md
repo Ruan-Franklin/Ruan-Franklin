@@ -18,7 +18,7 @@ Olá! Me chamo Ruan Franklin. Eu sou um desenvolvedor de software que trabalha c
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-Franklin&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Franklin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-franklin&&theme=transparent=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 Eu tenho experiência em desenvolvimento de aplicativos web e desktop, bem como em desenvolvimento de banco de dados. Eu gosto de aprender novas tecnologias e sempre estou procurando maneiras de melhorar minhas habilidades de programação.
 
